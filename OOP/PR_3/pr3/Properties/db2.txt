@@ -1,0 +1,3 @@
+viktor,21
+nicole,20
+bogdan,21
