@@ -1,3 +1,0 @@
-max,20
-denis,20
-artem,20
